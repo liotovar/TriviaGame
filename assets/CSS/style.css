@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/TriviaBackground.png");
+}
+
+.container{
+	background-color: orange;
+}
+
+.triviaTitle{
+	text-align: center;
+	color: blue;
+	font-size: 3.5em;
+}
+
+#show-number{
+	text-align: center;
+	color: blue;
+}
+
+#submitButtonContainer{
+	text-align: center;
+}
+
+#questions{
+	color: blue;
+	font-size: 2em;
+	text-align: center;
+}
